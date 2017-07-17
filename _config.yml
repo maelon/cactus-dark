@@ -42,9 +42,9 @@ plugins:
     google_analytics: UA-102154736-1 # enter the tracking ID for your Google Analytics
 
 # Miscellaneous
-#miscellaneous:
-    #open_graph: # see http://ogp.me
-        #fb_app_id:
-        #fb_admins:
-        #twitter_id:
-        #google_plus:
+miscellaneous:
+    open_graph: # see http://ogp.me
+        fb_app_id:
+        fb_admins:
+        twitter_id:
+        google_plus:
